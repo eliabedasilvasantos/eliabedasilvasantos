@@ -1,25 +1,59 @@
+<div align="center">
+
+<sub>GEOSPATIAL INTELLIGENCE &nbsp; / &nbsp; MARITIME TECHNOLOGY</sub>
+
 # Eliabe da Silva
 
-Geospatial intelligence · Maritime applications · Brazil
+Working with spatial data to better understand maritime operations.
 
-I'm part of the **Fovea AI** project at **Volarin Technologies**, working on geospatial intelligence for maritime operations.
+**Brazil · Volarin Technologies · Fovea AI**
 
-My current focus is on the technical foundations of the project: working with vessel positions, geographic areas and operational data using Python, PostgreSQL and PostGIS.
+<br>
 
-## Current work
+<img src="https://img.shields.io/badge/Python-152536?style=flat-square&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/PostgreSQL-152536?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/PostGIS-152536?style=flat-square&logoColor=white" alt="PostGIS">
+<img src="https://img.shields.io/badge/Git-152536?style=flat-square&logo=git&logoColor=white" alt="Git">
 
-- Exploring vessel monitoring and port-area analysis.
-- Testing spatial queries and working with simulated maritime data.
-- Documenting my technical contributions and what I learn along the way.
+</div>
 
-## Tools
+<br>
 
-Python · PostgreSQL · PostGIS · Git
+## About
 
-## What I'll share here
+I'm part of the **Fovea AI** project at **Volarin Technologies**, contributing to the development of geospatial intelligence for maritime operations.
 
-Small geospatial experiments, reproducible examples and public demonstrations as they become available. Each example will describe its data sources and limitations.
+My current work focuses on the technical foundations: vessel positions, geographic areas and operational data, using **Python, PostgreSQL and PostGIS**.
 
-Fovea AI is in early development. Demonstrations using simulated data will be labeled accordingly.
+<br>
 
-I'm interested in exchanging ideas with people working in geospatial technology, software development and maritime operations.
+## Project focus
+
+### Fovea AI
+Maritime geospatial intelligence · Early development
+
+Exploring how vessel data and spatial analysis can support a clearer understanding of port areas and maritime activity.
+
+| Area | Current focus |
+| :--- | :--- |
+| **Vessel monitoring** | Working with positions and simulated trajectories |
+| **Spatial analysis** | Testing relationships between vessel positions and port areas |
+| **Development** | Documenting technical contributions, experiments and decisions |
+
+<br>
+
+## Public work
+
+I'll use this profile to share small, reproducible pieces of my work:
+
+- **Geospatial experiments** — Python and PostGIS examples.
+- **Maritime demonstrations** — clearly labeled simulated data.
+- **Development notes** — what I test, learn and improve.
+
+Each example will describe what it does, the data it uses and its limitations.
+
+---
+
+<div align="center">
+<sub>Interested in geospatial technology, software development or maritime operations? Let's exchange ideas.</sub>
+</div>
