@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#203347" stroke-width="1"/></pattern><linearGradient id="bg"><stop stop-color="#0b1420"/><stop offset="1" stop-color="#142c3b"/></linearGradient></defs>
+<rect width="1200" height="320" rx="16" fill="url(#bg)"/><rect width="1200" height="320" rx="16" fill="url(#grid)" opacity=".5"/>
+<g fill="none" stroke="#68c4c3" opacity=".22"><ellipse cx="1045" cy="160" rx="220" ry="210"/><ellipse cx="1045" cy="160" rx="175" ry="165"/><ellipse cx="1045" cy="160" rx="130" ry="120"/><ellipse cx="1045" cy="160" rx="85" ry="75"/><path d="M790 260L865 225 902 155 983 134 1045 160 1140 75" stroke-width="2"/></g>
+<g fill="#8edbd3"><circle cx="902" cy="155" r="4"/><circle cx="1045" cy="160" r="5"/><circle cx="1140" cy="75" r="4"/></g>
+<rect x="60" y="63" width="38" height="3" fill="#8edbd3"/>
+<text x="60" y="104" fill="#8edbd3" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3">GEOAI / SOFTWARE / MARITIME INTELLIGENCE</text>
+<text x="56" y="175" fill="#f1f5fa" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="700">Eliabe da Silva</text>
+<text x="60" y="218" fill="#b4c4d4" font-family="Arial,Helvetica,sans-serif" font-size="19">Spatial data. Machine learning. Maritime operations.</text>
+<text x="60" y="274" fill="#8097ab" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="2">BRAZIL · VOLARIN TECHNOLOGIES · FOVEA AI</text>
+</svg>
